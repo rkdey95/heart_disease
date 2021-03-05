@@ -1,26 +1,26 @@
 # heart_disease
 Heart Disease diagnosis using Fuzzy Logic System
 
-Created by: Rupesh Kumar Dey //
-Date 28-Feb-2021 //
-Title: Heart Disease Diagnosis using Fuzzy Logic Systems // 
-Type of problem: Classification //
-Language: Python
+Created by: Rupesh Kumar Dey  
+Date 28-Feb-2021  
+Title: Heart Disease Diagnosis using Fuzzy Logic Systems  
+Type of problem: Classification  
+Language: Python  
 
 
 
-PROGRAM FILES
-1) SWITZERLAND.csv
-2) CLEVELAND.csv
-3) HUNGARIAN.csv
-4) cholesterol.py
-5) chest_pain.py
-6) blood_pressure.py
-7) blood_sugar.py
-8) age.py
-9) final_model.py
-10)Memberships.py
-11)Report in PDF
+PROGRAM FILES  
+1) SWITZERLAND.csv  
+2) CLEVELAND.csv  
+3) HUNGARIAN.csv  
+4) cholesterol.py  
+5) chest_pain.py  
+6) blood_pressure.py  
+7) blood_sugar.py  
+8) age.py  
+9) final_model.py  
+10) Memberships.py    
+11) Report in PDF  
 
 
 Items 1) - 3)
