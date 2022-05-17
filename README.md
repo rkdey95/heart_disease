@@ -1,4 +1,4 @@
-# heart_disease
+# Heart_disease
 Heart Disease diagnosis using Fuzzy Logic System
 
 Created by: Rupesh Kumar Dey  
